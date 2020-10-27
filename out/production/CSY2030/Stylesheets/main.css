@@ -1,0 +1,12 @@
+/*
+Used for the log in page background.
+*/
+.background {
+    -fx-background-image: url("../Images/bg2.jpeg");
+    -fx-background-size: cover;
+    -fx-background-position: center ;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: white;
+
+
+}
