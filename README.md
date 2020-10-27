@@ -1,1 +1,3 @@
-# Properties-Management-System-Java-
+# Properties-Management-System-Java
+
+Systems Design and Development Assessment
